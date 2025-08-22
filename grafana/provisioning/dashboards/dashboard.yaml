@@ -1,0 +1,3 @@
+# Provisionamento de dashboards do Grafana (placeholder).
+apiVersion: 1
+providers: []

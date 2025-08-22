@@ -1,0 +1,4 @@
+# Placeholder inicial — será preenchido no próximo passo.
+# Este arquivo orquestra os serviços Prometheus e Grafana via Docker Compose.
+version: "3.8"
+services: {}
